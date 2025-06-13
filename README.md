@@ -60,7 +60,7 @@ The final model and vectorizer are saved using `pickle`, making it easy to integ
 
 ---
 
-##  Future Work
+## Future Work
 
 - Integrate transformer-based models like BERT
 - Experiment with LSTM/CNN architectures
@@ -68,3 +68,25 @@ The final model and vectorizer are saved using `pickle`, making it easy to integ
 
 ---
 
+## Dataset
+
+The dataset used in this project is sourced from Kaggle and focuses on sentiment classification of financial text data.
+
+- **Source**: [Financial Sentiment Analysis Dataset on Kaggle](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis)
+- **Classes**: Positive, Negative, Neutral
+- **Type**: Text data extracted from financial articles, news headlines, and reports.
+
+---
+
+## Author
+
+**Faizul Shaik**  
+🎓 Data Science Student, GITAM Deemed University, Bengaluru  
+📫 Email: fyzul1830@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/faizul-shaik131/)   
+
+---
+
+## 📌 Note
+
+This project is solely for academic and portfolio-building purposes. The insights are exploratory and not intended for commercial decision-making.
